@@ -41,6 +41,9 @@ https://public.tableau.com/app/profile/tekin6141/viz/Midcamp_Project_Wine/PROJEC
 While the data used & tools are free-to-use & open-source, I will appreciate if the below credits are mentioned if you find using my work & time devoted to this project useful, and you intend to share it in full/parts publicly:
 
 Author: Mustafa TEKIN
+
 LinkedIn: https://www.linkedin.com/in/tekin-mustafa/
+
 Github: https://github.com/Tekiniggemann
+
 Duesseldorf, 2021
